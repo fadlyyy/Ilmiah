@@ -1,6 +1,6 @@
 <?php
 
-namespace Qia\Kalkulatorilmiah;
+namespace Sangcahayaidkalk\Kalkulatorilmiah;
 
 class Kalkulator
 {

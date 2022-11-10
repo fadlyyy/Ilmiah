@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Qia\\Kalkulatorilmiah\\' => array($baseDir . '/src'),
+    'Sangcahayaidkalk\\Kalkulatorilmiah\\' => array($baseDir . '/src'),
 );

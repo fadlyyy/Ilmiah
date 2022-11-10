@@ -1,11 +1,10 @@
 {
-    "name": "qia/kalkulatorilmiah",
-    "description": "sangcahaya.id",
+    "name": "sangcahayaidkalk/kalkulatorilmiah",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Qia\\Kalkulatorilmiah\\": "src/"
+            "Sangcahayaidkalk\\Kalkulatorilmiah\\": "src/"
         }
     },
     "authors": [
